@@ -1,4 +1,12 @@
 #Quickstart_1
+#quickstart_1 richiede di un tipo_test, dizionario alla riga 4, e di un genoma, è un quickstart che prova a velocizzare le funzioni del nostro codice
+# data la tipologia di funzioni che il nostro codice deve eseguire, le insertion, gli insertion-point, ect… per comodità sono ggià stati scritti come esempio
+tipo_test = {
+    "test_1": editor.edit_singolo,
+    "test_2": editor.edit_multiplo,
+    "test_3": editor.del_edit,
+    "test_4": editor.del_edit_multiplo
+}
 from genome_editor import GenomeEditor
 
 genoma_test= "AAATCGCGCGTCATAGTCGGA"
