@@ -32,6 +32,5 @@ Metodo che tenta di annullare una catena di `k` modifiche, gestendo sia le repli
 ---
 
 ## Quickstart 
-'''bash
-python main.py
+Scrivere nel terminale python main.py 
 
