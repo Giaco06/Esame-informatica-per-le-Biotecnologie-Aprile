@@ -58,5 +58,3 @@ def main() -> None:
 
     risultato_del_multiplo: str = editor.del_edit_multiplo(genoma_edit_multipli, del_points, del_ins)
     print(f"Genoma finale:      {risultato_del_multiplo}\n")
-if __name__ == "__main__":
-    main()
