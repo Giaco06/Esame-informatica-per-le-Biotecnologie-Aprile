@@ -29,8 +29,3 @@ Metodo che tenta di annullare una catena di `k` modifiche, gestendo sia le repli
 * **Gestione Repliche Inversa:** Utilizza la stessa logica matematica del metodo di inserimento. Alla m-esima occorrenza, il sistema cercherà di rimuovere un blocco replicato m volte.
 * **Interruzione Automatica:** Se un'operazione di rimozione fallisce, il ciclo rileva l'invarianza della stringa genomica e interrompe istantaneamente l'esecuzione (`break`), restituendo il genoma ripristinato fino all'ultimo step valido.
 
----
-
-## Quickstart 
-Scrivere nel terminale python main.py 
-
