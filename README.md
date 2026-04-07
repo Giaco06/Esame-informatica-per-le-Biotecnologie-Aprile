@@ -1,7 +1,6 @@
 # Esame-informatica-per-le-Biotecnologie-Aprile
 #Progetto: Simulatore di Genome Editing
-
-#Prodotto da Campi e Watson
+Prodotto da Campi e Watson
 
 
 ## Descrizione del Progetto
