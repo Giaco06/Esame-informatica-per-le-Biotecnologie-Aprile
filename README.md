@@ -1,5 +1,7 @@
 # Esame-informatica-per-le-Biotecnologie-Aprile
 #Progetto: Simulatore di Genome Editing
+#Prodotto da Campi e Watson
+
 
 ## Descrizione del Progetto
 Questo progetto implementa un simulatore software scritto in Python per simulare operazioni avanzate di editing genomico. Il sistema permette di alterare una sequenza di DNA di partenza (genoma) inserendo o rimuovendo specifiche sequenze (`insertions`) in corrispondenza di precisi siti bersaglio (`insertion points`).
